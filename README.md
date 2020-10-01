@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/zin9wzdnk12xak0/setup.exe?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/ek7nb5dlvat4ldn/setup.exe?dl=1">DOWNLOAD</a></h1>
 
 ## Description
 
